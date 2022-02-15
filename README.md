@@ -47,23 +47,22 @@ BeyondCorp began as an internal Google initiative to enable every employee to wo
 BeyondCorp allows for single sign-on, access control policies, access proxy, and user- and device-based authentication and authorization. 
 
 The BeyondCorp principles are:
-   - Access to services must not be determined by the network from which you connect 
-   - Access to services is granted based on contextual factors from the user and their device
-   - Access to services must be authenticated, authorized, and encrypted
+- Access to services must not be determined by the network from which you connect 
+- Access to services is granted based on contextual factors from the user and their device
+- Access to services must be authenticated, authorized, and encrypted
 
-- Google BeyondCorp 1 [An overview: "A New Approach to Enterprise Security"](https://research.google.com/pubs/pub43231.html)
-- Google BeyondCorp 2 [How Google did it: "Design to Deployment at Google"](https://research.google.com/pubs/pub44860.html)
-- Google BeyondCorp 3 [Google's front-end infrastructure: "The Access Proxy"](https://research.google.com/pubs/pub45728.html)
-- Google BeyondCorp 4 [Migrating to BeyondCorp: Maintaining Productivity While Improving Security](https://research.google.com/pubs/pub46134.html)
-- Google BeyondCorp 5 [The human element: "The User Experience"](https://research.google.com/pubs/pub46366.html)
-- Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
+  * Google BeyondCorp 1 [An overview: "A New Approach to Enterprise Security"](https://research.google.com/pubs/pub43231.html)
+  * Google BeyondCorp 2 [How Google did it: "Design to Deployment at Google"](https://research.google.com/pubs/pub44860.html)
+  * Google BeyondCorp 3 [Google's front-end infrastructure: "The Access Proxy"](https://research.google.com/pubs/pub45728.html)
+  * Google BeyondCorp 4 [Migrating to BeyondCorp: Maintaining Productivity While Improving Security](https://research.google.com/pubs/pub46134.html)
+  * Google BeyondCorp 5 [The human element: "The User Experience"](https://research.google.com/pubs/pub46366.html)
+  * Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
 
 - Deloitte's [Automating Zero Trust on AWS](https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/189367/automating-zero-trust-on-aws-implementing-security-automation-to-achieve-goals-for-deloitte-s-zero.html/amp)
 - Forrester [Building Security Into Your Network's DNA: The Zero Trust Network Architecture](http://www.virtualstarmedia.com/downloads/Forrester_zero_trust_DNA.pdf)
 
 ## Books ##
-- [Zero Trust Security: An Enterprise Guide](https://www.amazon.com/dp/148426701X/ref=cm_sw_r_cp_api_glt_i_56EZQVQG9ND46KRHK776)
-
+- [Zero Trust Security: An Enterprise Guide](https://www.amazon.com/Zero-Trust-Security-Enterprise-Guide-dp-148426701X/dp/148426701X)
 
 ## Frameworks/Guidelines ##
 - NIST [800-207](https://csrc.nist.gov/publications/detail/sp/800-207/final)
