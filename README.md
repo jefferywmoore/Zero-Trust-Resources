@@ -2,6 +2,8 @@
 
 Resources and Tools for Zero Trust Security
 
+![nist-zero-trust-framework-1024x480](https://user-images.githubusercontent.com/57304026/155910033-ac753281-1537-42b9-9323-77f1c56cc181.png)
+
 ## What is Zero Trust? ##
 
 Zero Trust is a security model, a set of system design principles, and a coordinated cybersecurity and system
